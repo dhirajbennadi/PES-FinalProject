@@ -16,6 +16,9 @@ Code Link:https://github.com/kokke/tiny-AES-c
 
 The code is not used for any commercial purpose.
 
+# SPI Communication
+
+
 ## Test Results
 ## Encryption Result using online Tool
 ![TestResult1](AESEncryptionTest1Highlighted.JPG);
