@@ -1,0 +1,17 @@
+AES.c:81:13:KeyExpansion	48	static
+AES.c:144:6:AES_init_ctx	16	static
+AES.c:149:6:AES_init_ctx_iv	24	static
+AES.c:154:6:AES_ctx_set_iv	16	static
+AES.c:161:13:AddRoundKey	40	static
+AES.c:175:13:SubBytes	32	static
+AES.c:190:13:ShiftRows	24	static
+AES.c:218:16:xtime	16	static
+AES.c:224:13:MixColumns	40	static
+AES.c:251:13:InvMixColumns	40	static
+AES.c:272:13:InvSubBytes	32	static
+AES.c:284:13:InvShiftRows	24	static
+AES.c:312:13:Cipher	32	static
+AES.c:337:13:InvCipher	32	static
+AES.c:362:13:XorWithIv	32	static
+AES.c:371:6:AES_CBC_encrypt_buffer	32	static
+AES.c:386:6:AES_CBC_decrypt_buffer	56	static
