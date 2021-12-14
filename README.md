@@ -15,3 +15,16 @@ The AES encryption and decryption algorithm is sourced from the below mentioned 
 Code Link:https://github.com/kokke/tiny-AES-c
 
 The code is not used for any commercial purpose.
+
+## Test Results
+## Encryption Result using online Tool
+![TestResult1](AESEncryptionTest1Highlighted.JPG);
+
+## Encryption Result on KL25Z
+![TestResult2](AESEncryptionTest2.JPG);
+
+## Test Case for Encryption and Decryption executed on KL25Z
+![TestResult3](AESEncryptionTest5.JPG);
+
+## Test Case for Encryption and Decryption executed on KL25Z
+![TestResult4](AESEncryptionTest6.JPG);
